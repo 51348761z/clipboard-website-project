@@ -2,6 +2,8 @@
 
 A responsive landing page built with Tailwind CSS.
 
+🔗 **Live Demo:** https://clipboard-website-project.vercel.app/
+
 ## Setup
 
 ```bash
